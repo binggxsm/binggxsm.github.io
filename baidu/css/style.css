@@ -1,0 +1,11 @@
+ul {list-style-type: none;}
+a {text-decoration:none;}
+a:hover {color:blue;}
+a:visited {color:#000;}
+a:active {color:blue;}
+li{float:left;margin-left: 5px;margin-right: 5px;display:block;}
+#navtop-r {width: 500px;}
+#navtop-r {float: right;width: 200px;}
+#logo {text-align: center;}
+#serch{text-align: center;}
+#hot a {float:left;}
